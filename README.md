@@ -1,6 +1,6 @@
 # Complete-Guide-to-Digital-Marketing-Strategies-for-Beginners
 Digital marketing is the most powerful way to grow any business online. Learn SEO, social media marketing, PPC, and content marketing strategies to boost your brand visibility.
-Digital marketing plays a crucial role in today’s online business world. It helps businesses connect with their target audience through different online channels like search engines, social media, email, and websites.
+[Digital marketing](https://www.manysmile.in/) plays a crucial role in today’s online business world. It helps businesses connect with their target audience through different online channels like search engines, social media, email, and websites.
 
 This repository provides complete knowledge about digital marketing, including:
 
